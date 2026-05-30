@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['your_20first_20code_20contribution_0',['Your First Code Contribution',['../md_CONTRIBUTING.html#autotoc_md17',1,'']]]
+  ['zip_0',['zip',['https://en.cppreference.com/w/cpp/ranges/zip_view.html',1,'std::ranges::views']]],
+  ['zip_5fview_1',['zip_view',['https://en.cppreference.com/w/cpp/ranges/zip_view.html',1,'std::ranges']]]
 ];

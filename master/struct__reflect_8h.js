@@ -1,7 +1,7 @@
 var struct__reflect_8h =
 [
-    [ "vir::as_tuple< T >", "structvir_1_1as__tuple.html", null ],
-    [ "vir::as_pair< T >", "structvir_1_1as__pair.html", null ],
+    [ "vir::as_tuple&lt; T &gt;", "structvir_1_1as__tuple.html", null ],
+    [ "vir::as_pair&lt; T &gt;", "structvir_1_1as__pair.html", null ],
     [ "vir::reflectable_struct", "conceptvir_1_1reflectable__struct.html", null ],
     [ "vir::struct_element_t", "namespacevir.html#a24ec1cd2ba944c3a3cf6910ce568c3b4", null ],
     [ "vir::as_tuple_t", "namespacevir.html#ad9c072d0b1a5edad88e62a4c15a50e6c", null ],

@@ -1,6 +1,11 @@
 var searchData=
 [
-  ['library_0',['Testing for the version of the vir::stdx::simd (vir-simd) library',['../md_README.html#autotoc_md45',1,'']]],
-  ['link_20p0350_20p0350_20a_1',['SIMD execution policy (&lt;a href=&quot;https://wg21.link/P0350&quot; &gt;P0350&lt;/a&gt;)',['../md_README.html#autotoc_md32',1,'']]],
-  ['link_20p2664_20paper_20a_2',['Permutations (&lt;a href=&quot;https://wg21.link/P2664&quot; &gt;paper&lt;/a&gt;)',['../md_README.html#autotoc_md31',1,'']]]
+  ['major_0',['major',['../structvir_1_1simd__version__t.html#a47eb0dfe1b553125399e4747856a7698',1,'vir::simd_version_t']]],
+  ['making_20simd_20conversions_20more_20convenient_1',['Making &lt;span class=&quot;tt&quot;&gt;simd&lt;/span&gt; conversions more convenient',['../md_README.html#autotoc_md30',1,'']]],
+  ['mask_5ftype_2',['mask_type',['../classvir_1_1simd__tuple_3_01T_00_01N_01_4.html#ae4f5c4bb3020156d9b5757a9a03bd89b',1,'vir::simd_tuple&lt; T, N &gt;']]],
+  ['messages_3',['Commit Messages',['../md_CONTRIBUTING.html#autotoc_md20',1,'']]],
+  ['minor_4',['minor',['../structvir_1_1simd__version__t.html#ac1ea92a002f597657ded88a989b1f176',1,'vir::simd_version_t']]],
+  ['modifiers_5',['Execution policy modifiers',['../md_README.html#autotoc_md35',1,'']]],
+  ['more_20convenient_6',['Making &lt;span class=&quot;tt&quot;&gt;simd&lt;/span&gt; conversions more convenient',['../md_README.html#autotoc_md30',1,'']]],
+  ['multiplies_7',['multiplies',['https://en.cppreference.com/w/cpp/utility/functional/multiplies.html',1,'std']]]
 ];

@@ -1,9 +1,9 @@
 var standard_library =
 [
     [ "ranges", "https://en.cppreference.com/w/cpp/ranges.html", null ],
-    [ "tuple_element< I, vir::simd_tuple< T, N > >", "structstd_1_1tuple__element_3_01I_00_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
-    [ "tuple_size< vir::simd_tuple< T, N > >", "structstd_1_1tuple__size_3_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
-    [ "tuple_size< vir::vectorized_struct< T, N > >", "structstd_1_1tuple__size_3_01vir_1_1vectorized__struct_3_01T_00_01N_01_4_01_4.html", null ],
+    [ "tuple_size&lt; vir::simd_tuple&lt; T, N &gt; &gt;", "structstd_1_1tuple__size_3_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
+    [ "tuple_element&lt; I, vir::simd_tuple&lt; T, N &gt; &gt;", "structstd_1_1tuple__element_3_01I_00_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
+    [ "tuple_size&lt; vir::vectorized_struct&lt; T, N &gt; &gt;", "structstd_1_1tuple__size_3_01vir_1_1vectorized__struct_3_01T_00_01N_01_4_01_4.html", null ],
     [ "for_each", "group__vir__for__each.html#ga482144ced22d64a3e294a97ba6c6d3e1", null ],
     [ "transform", "group__vir__transform.html#ga2d6942a82d94488bba89f39bb8300257", null ],
     [ "transform", "group__vir__transform.html#ga8364f5c90636e4e9a45d944a16501987", null ],

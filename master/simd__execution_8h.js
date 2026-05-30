@@ -1,6 +1,6 @@
 var simd__execution_8h =
 [
-    [ "vir::execution::simd_policy< Options >", "structvir_1_1execution_1_1simd__policy.html", null ],
+    [ "vir::execution::simd_policy&lt; Options &gt;", "structvir_1_1execution_1_1simd__policy.html", null ],
     [ "vir::detail::simd_execution_policy", "conceptvir_1_1detail_1_1simd__execution__policy.html", null ],
     [ "vir::detail::simd_execution_range", "conceptvir_1_1detail_1_1simd__execution__range.html", null ],
     [ "vir::detail::simd_execution_iterator", "conceptvir_1_1detail_1_1simd__execution__iterator.html", null ],

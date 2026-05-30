@@ -1,11 +1,11 @@
 var simdize_8h =
 [
-    [ "vir::simdize_size< T >", "structvir_1_1simdize__size.html", null ],
-    [ "vir::simd_tuple< T, N >", "classvir_1_1simd__tuple_3_01T_00_01N_01_4.html", "classvir_1_1simd__tuple_3_01T_00_01N_01_4" ],
-    [ "vir::vectorized_struct< T, N >", "classvir_1_1vectorized__struct_3_01T_00_01N_01_4.html", "classvir_1_1vectorized__struct_3_01T_00_01N_01_4" ],
-    [ "std::tuple_size< vir::simd_tuple< T, N > >", "structstd_1_1tuple__size_3_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
-    [ "std::tuple_element< I, vir::simd_tuple< T, N > >", "structstd_1_1tuple__element_3_01I_00_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
-    [ "std::tuple_size< vir::vectorized_struct< T, N > >", "structstd_1_1tuple__size_3_01vir_1_1vectorized__struct_3_01T_00_01N_01_4_01_4.html", null ],
+    [ "vir::simdize_size&lt; T &gt;", "structvir_1_1simdize__size.html", null ],
+    [ "vir::simd_tuple&lt; T, N &gt;", "classvir_1_1simd__tuple_3_01T_00_01N_01_4.html", "classvir_1_1simd__tuple_3_01T_00_01N_01_4" ],
+    [ "vir::vectorized_struct&lt; T, N &gt;", "classvir_1_1vectorized__struct_3_01T_00_01N_01_4.html", "classvir_1_1vectorized__struct_3_01T_00_01N_01_4" ],
+    [ "std::tuple_size&lt; vir::simd_tuple&lt; T, N &gt; &gt;", "structstd_1_1tuple__size_3_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
+    [ "std::tuple_element&lt; I, vir::simd_tuple&lt; T, N &gt; &gt;", "structstd_1_1tuple__element_3_01I_00_01vir_1_1simd__tuple_3_01T_00_01N_01_4_01_4.html", null ],
+    [ "std::tuple_size&lt; vir::vectorized_struct&lt; T, N &gt; &gt;", "structstd_1_1tuple__size_3_01vir_1_1vectorized__struct_3_01T_00_01N_01_4_01_4.html", null ],
     [ "vir::vectorizable_struct_template", "conceptvir_1_1vectorizable__struct__template.html", null ],
     [ "vir::vectorizable_struct", "conceptvir_1_1vectorizable__struct.html", null ],
     [ "vir::simdize", "namespacevir.html#aa9157ef3f9863e8dc719bcc2166baf50", null ],

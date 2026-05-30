@@ -60,22 +60,22 @@ var NAVTREE =
       [ "Usage", "md_README.html#autotoc_md26", null ],
       [ "Options", "md_README.html#autotoc_md27", null ],
       [ "Additional Features", "md_README.html#autotoc_md28", [
-        [ "Simple iota simd constants", "md_README.html#autotoc_md29", null ],
-        [ "Making simd conversions more convenient", "md_README.html#autotoc_md30", null ],
-        [ "Permutations (paper)", "md_README.html#autotoc_md31", null ],
-        [ "SIMD execution policy (P0350)", "md_README.html#autotoc_md32", [
+        [ "Simple iota <span class=\"tt\">simd</span> constants", "md_README.html#autotoc_md29", null ],
+        [ "Making <span class=\"tt\">simd</span> conversions more convenient", "md_README.html#autotoc_md30", null ],
+        [ "Permutations (<a href=\"https://wg21.link/P2664\">paper</a>)", "md_README.html#autotoc_md31", null ],
+        [ "SIMD execution policy (<a href=\"https://wg21.link/P0350\">P0350</a>)", "md_README.html#autotoc_md32", [
           [ "Usable algorithms", "md_README.html#autotoc_md33", null ],
           [ "Example", "md_README.html#autotoc_md34", null ],
           [ "Execution policy modifiers", "md_README.html#autotoc_md35", null ]
         ] ],
-        [ "Bitwise operators for floating-point simd", "md_README.html#autotoc_md36", null ],
-        [ "Conversion between std::bitset and simd_mask", "md_README.html#autotoc_md37", null ],
+        [ "Bitwise operators for floating-point <span class=\"tt\">simd</span>", "md_README.html#autotoc_md36", null ],
+        [ "Conversion between <span class=\"tt\">std::bitset</span> and <span class=\"tt\">simd_mask</span>", "md_README.html#autotoc_md37", null ],
         [ "vir::simd_resize and vir::simd_size_cast", "md_README.html#autotoc_md38", null ],
         [ "vir::simd_bit_cast", "md_README.html#autotoc_md39", null ],
         [ "Concepts", "md_README.html#autotoc_md40", null ],
         [ "simdize type transformation", "md_README.html#autotoc_md41", null ],
         [ "Benchmark support functions", "md_README.html#autotoc_md42", null ],
-        [ "constexpr_wrapper: function arguments as constant expressions", "md_README.html#autotoc_md43", [
+        [ "<span class=\"tt\">constexpr_wrapper</span>: function arguments as constant expressions", "md_README.html#autotoc_md43", [
           [ "Example", "md_README.html#autotoc_md44", null ]
         ] ],
         [ "Testing for the version of the vir::stdx::simd (vir-simd) library", "md_README.html#autotoc_md45", [
@@ -122,5 +122,6 @@ var NAVTREEINDEX =
 "annotated.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
+const SYNCONMSG = 'click to disable panel synchronization';
+const SYNCOFFMSG = 'click to enable panel synchronization';
+const LISTOFALLMEMBERS = 'List of all members';

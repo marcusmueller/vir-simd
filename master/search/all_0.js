@@ -1,4 +1,30 @@
 var searchData=
 [
-  ['_3a_20function_20arguments_20as_20constant_20expressions_0',['&lt;tt&gt;constexpr_wrapper&lt;/tt&gt;: function arguments as constant expressions',['../md_README.html#autotoc_md43',1,'']]]
+  ['a_20bug_20report_0',['Before Submitting a Bug Report',['../md_CONTRIBUTING.html#autotoc_md12',1,'']]],
+  ['a_20good_20bug_20report_1',['How Do I Submit a Good Bug Report?',['../md_CONTRIBUTING.html#autotoc_md13',1,'']]],
+  ['a_20good_20enhancement_20suggestion_2',['How Do I Submit a Good Enhancement Suggestion?',['../md_CONTRIBUTING.html#autotoc_md16',1,'']]],
+  ['a_20question_3',['I Have a Question',['../md_CONTRIBUTING.html#autotoc_md9',1,'']]],
+  ['additional_20features_4',['Additional Features',['../md_README.html#autotoc_md28',1,'']]],
+  ['algorithm_3a_20count_5fif_5',['Algorithm: count_if',['../group__vir__count__if.html',1,'']]],
+  ['algorithm_3a_20for_20each_6',['Algorithm: for-each',['../group__vir__for__each.html',1,'']]],
+  ['algorithm_3a_20reduce_7',['Algorithm: reduce',['../group__vir__reduce.html',1,'']]],
+  ['algorithm_3a_20transform_8',['Algorithm: transform',['../group__vir__transform.html',1,'']]],
+  ['algorithm_3a_20transform_5freduce_9',['Algorithm: transform_reduce',['../group__vir__transform__reduce.html',1,'']]],
+  ['algorithms_10',['Usable algorithms',['../md_README.html#autotoc_md33',1,'']]],
+  ['an_20enhancement_11',['Before Submitting an Enhancement',['../md_CONTRIBUTING.html#autotoc_md15',1,'']]],
+  ['and_20simd_5fmask_12',['Conversion between &lt;span class=&quot;tt&quot;&gt;std::bitset&lt;/span&gt; and &lt;span class=&quot;tt&quot;&gt;simd_mask&lt;/span&gt;',['../md_README.html#autotoc_md37',1,'']]],
+  ['and_20vir_3a_3asimd_5fsize_5fcast_13',['vir::simd_resize and vir::simd_size_cast',['../md_README.html#autotoc_md38',1,'']]],
+  ['any_5fsimd_14',['any_simd',['../conceptvir_1_1any__simd.html',1,'vir']]],
+  ['any_5fsimd_5fmask_15',['any_simd_mask',['../conceptvir_1_1any__simd__mask.html',1,'vir']]],
+  ['any_5fsimd_5for_5fmask_16',['any_simd_or_mask',['../conceptvir_1_1any__simd__or__mask.html',1,'vir']]],
+  ['arguments_20as_20constant_20expressions_17',['&lt;span class=&quot;tt&quot;&gt;constexpr_wrapper&lt;/span&gt;: function arguments as constant expressions',['../md_README.html#autotoc_md43',1,'']]],
+  ['arithmetic_18',['arithmetic',['../conceptvir_1_1arithmetic.html',1,'vir']]],
+  ['as_20constant_20expressions_19',['&lt;span class=&quot;tt&quot;&gt;constexpr_wrapper&lt;/span&gt;: function arguments as constant expressions',['../md_README.html#autotoc_md43',1,'']]],
+  ['as_5fpair_20',['as_pair',['../structvir_1_1as__pair.html',1,'vir']]],
+  ['as_5fpair_5ft_21',['as_pair_t',['../namespacevir.html#a0fbf5c55f1792280648702502f55e3ab',1,'vir']]],
+  ['as_5ftuple_22',['as_tuple',['../structvir_1_1as__tuple.html',1,'vir']]],
+  ['as_5ftuple_5ft_23',['as_tuple_t',['../namespacevir.html#ad9c072d0b1a5edad88e62a4c15a50e6c',1,'vir']]],
+  ['assume_5fmatching_5fsize_24',['assume_matching_size',['../structvir_1_1execution_1_1simd__policy.html#af8ab567780b8a9f7a24c1cdd2f23e460',1,'vir::execution::simd_policy']]],
+  ['attribution_25',['Attribution',['../md_CODE__OF__CONDUCT.html#autotoc_md5',1,'Attribution'],['../md_CONTRIBUTING.html#autotoc_md22',1,'Attribution']]],
+  ['auto_5fprologue_26',['auto_prologue',['../structvir_1_1execution_1_1simd__policy.html#a8d4557ea9331ed5cfedea6276026e59d',1,'vir::execution::simd_policy']]]
 ];
